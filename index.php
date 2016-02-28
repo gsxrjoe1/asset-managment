@@ -21,6 +21,9 @@
 		</style>
 	</head>
 	<body>
+
+	<h1>Asset Manager</h1>
+
 		<div id='columns'> 
 		</div>
 		<div id='filters'>
