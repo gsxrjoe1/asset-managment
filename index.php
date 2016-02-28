@@ -16,7 +16,7 @@
 		}
 
 		.js-columns{
-
+			background-color:blue;
 		}
 		</style>
 	</head>
